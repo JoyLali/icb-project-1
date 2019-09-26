@@ -1,0 +1,7 @@
+# 9/26/19
+We made a physical prototype of the ramp and decided it will move along with two uderlying "doodads" kind of like a shelf.
+We know the shelf will have to eventually be fastened to the doodads, otherwise it will slide off.
+No matter what our solution to the sldie-off problem,we need to create doodads that move up and down along with player input.
+The first step is to just make one doodads that moves up and down with player input.
+## What button should it be?
+We know we're developing on mouse and keyboard,so no matter what platformwe ultimately release the game on (PC,Xbox,IOS.etc),we have to have 
