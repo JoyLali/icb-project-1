@@ -1,5 +1,7 @@
 # Theme ideas for ICB project
 ## Background
+
+<p align
 The background would be more cutesty to make it more different
 https://free-game-assets.itch.io/free-parallax-2d-backgrounds
 ## The ball
