@@ -16,11 +16,12 @@ public class Obstacle : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("Touched trigger.");
-        if (collision.tag == "Player")
+        if (collision.tag == "Player" && !GameOver.IsGameOver)
         {
             GameOverText.SetActive(true);
             audioSource.Play();
             Debug.Log("Has touched the obstacle");
+            GameOver.IsGameOver = true;
         }
     }
 }
