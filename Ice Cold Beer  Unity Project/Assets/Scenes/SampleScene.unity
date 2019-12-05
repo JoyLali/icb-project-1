@@ -155,7 +155,7 @@ FixedJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: 0.46282804, y: 0.012000084}
+  m_ConnectedAnchor: {x: 0.45799097, y: 0.012000084}
   m_DampingRatio: 0
   m_Frequency: 0
 --- !u!50 &144404630
@@ -572,7 +572,7 @@ FixedJoint2D:
   m_BreakTorque: Infinity
   m_AutoConfigureConnectedAnchor: 1
   m_Anchor: {x: 0, y: 0}
-  m_ConnectedAnchor: {x: -0.46456325, y: 0}
+  m_ConnectedAnchor: {x: -0.45837197, y: 0}
   m_DampingRatio: 0
   m_Frequency: 0
 --- !u!1 &441429247
@@ -1077,7 +1077,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 47b8fd4c0d4140d4ca66e59564cbfa25, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -1390,7 +1390,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: aa712bbc80acf394592dd50de564ac3a, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -1656,8 +1656,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1551063608}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.102, y: -1.72, z: 0}
-  m_LocalScale: {x: 20.746367, y: 1, z: 1}
+  m_LocalPosition: {x: -0.116, y: -1.72, z: 0}
+  m_LocalScale: {x: 20.996048, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
